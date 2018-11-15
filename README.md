@@ -18,7 +18,6 @@ class account
 {
 	int acno;
 	char name[50];
-	char dbirth[20];
 	int deposit;
 	char type;
 public:
